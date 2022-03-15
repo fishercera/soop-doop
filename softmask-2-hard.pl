@@ -1,5 +1,6 @@
 #!/usr/bin/perl 
-#
+# Usage: perl softmask-2-hard.pl SoftmaskedSequences.fasta HardmaskedSequences.fasta
+### ~~~ be wise: this obviously only works one way, so don't throw away SoftmaskedSequences.fasta. ~~~
 # pseudo-code: 
 # Read file in line by line 
 # if line starts with > skip it 
