@@ -145,7 +145,7 @@ calculatePoolingStrategy <- function(region_quants,
                                      To = 900) {
   strat <- region_quants %>% group_by(Pool_ID) %>%
     # Add a column that calculates how much of the library is kept at each
-    # pippin-prep range (uses the 150-800 range as "100%" of the library)
+    # pippin-prep range (uses the 120-900 range as "100%" of the library)
     mutate(., percentLibKept=100*(percentOfTotal/
                                   percentOfTotal[region_range=="120-900"])) %>%
     # Filter the region_quants table to just the entries for the region-range we
