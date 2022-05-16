@@ -17,7 +17,8 @@ For small runs, it is easier to dilute to 10nM first. Skip to the header
 “Conventional Pooling Strategy” for an example of that calculation.
 
 The original code for this was developed by Hannah Ralicki ca 2017 at
-University of Connecticut, in the Jockusch Lab.
+University of Connecticut, in the Jockusch Lab. Download the .Rmd file 
+and the two example data files to run this for yourself in R.
 
 ### Description of input data
 
