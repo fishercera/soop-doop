@@ -1,0 +1,5 @@
+Pool_ID	concentration_ng_uL
+A02	28.16666667
+B02	24.3
+C02	25.9
+D02	24.06666667

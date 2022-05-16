@@ -1,0 +1,5 @@
+Pool_ID	From_bp	To_bp	Average_Size_bp	percentOfTotal	region_range
+A02	120	900	651	100	120-900
+B02	120	900	572	100	120-900
+C02	120	900	636	100	120-900
+D02	120	900	599	100	120-900
